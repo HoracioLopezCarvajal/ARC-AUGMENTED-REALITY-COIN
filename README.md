@@ -1,6 +1,6 @@
-# Monero
+# Augmented Reality Coin
 
-Copyright (c) 2014-2022 The Monero Project.  
+Copyright (c) 2017-2022 Augmented Reality Coin.  
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Table of Contents
@@ -18,7 +18,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
   - [Contributing](#contributing)
   - [Scheduled software upgrades](#scheduled-software-upgrades)
   - [Release staging schedule and protocol](#release-staging-schedule-and-protocol)
-  - [Compiling Monero from source](#compiling-monero-from-source)
+  
     - [Dependencies](#dependencies)
   - [Internationalization](#Internationalization)
   - [Using Tor](#using-tor)

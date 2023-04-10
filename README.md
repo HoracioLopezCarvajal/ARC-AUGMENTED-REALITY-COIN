@@ -1,5 +1,5 @@
 # Augmented Reality Coin
-Horacio López Carvajal +34692110212
+Horacio López Carvajal +34
 Sale of ICO coins 1.0
 Copyright (c) 2023 Augmented Reality Coin.  
 Copyright (c) 2023 .

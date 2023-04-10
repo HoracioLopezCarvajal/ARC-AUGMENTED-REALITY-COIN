@@ -2,7 +2,7 @@
 Horacio López Carvajal +34692110212
 Sale of ICO coins 1.0
 Copyright (c) 2023 Augmented Reality Coin.  
-Copyright (c) 2022 .
+Copyright (c) 2023 .
 Donations in Bitcoin for the acceleration of development
 bc1qgjr7h4l8y6z9v2a9p798umf6jeqsgrcmzutakd
 Donations in ethereum for the acceleration of development
